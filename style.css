@@ -1,0 +1,23 @@
+#base {
+    float: left;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+    color: red;
+}
+
+h2 {
+    color: red;
+    text-align: left;
+}
